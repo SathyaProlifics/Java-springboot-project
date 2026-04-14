@@ -91,6 +91,8 @@ streamlit run app.py
 ```
 The frontend application will start on port **8501**.
 
+streamlit is an open-source Python framework that lets you quickly build and share interactive web apps—especially for data science, machine learning, and analytics—without needing front-end skills like HTML, CSS, or JavaScript.
+
 ---
 
 ## Access the Application
